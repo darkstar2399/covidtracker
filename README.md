@@ -9,6 +9,7 @@ It provides information about the global state of COVID-19 (infected , recovered
 <a href="https://reactjs.org/"><img width="60" height="60" src="https://cdn.svgporn.com/logos/react.svg"/></a>&nbsp;&nbsp;
 <a href="https://material-ui.com/"><img width="60" height="60" src="https://cdn.svgporn.com/logos/material-ui.svg"/></a>&nbsp;&nbsp;
 <a href="https://chartjs.org/"><img width="60" height="60" src="https://www.chartjs.org/img/chartjs-logo.svg"/></a>
+<br/>
 
 ### Link to the API used:
 https://covid19.mathdro.id/api
