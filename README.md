@@ -2,5 +2,5 @@
 
 ### Technologies used:
 
-<img src="https://cdn.svgporn.com/logos/react.svg"/>
+<img width="60" height="60" src="https://cdn.svgporn.com/logos/react.svg"/>
 
